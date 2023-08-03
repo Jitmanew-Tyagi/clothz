@@ -1,2 +1,2 @@
 # spring-boot-microservices-new
-This repository contains the latest source code of the spring-boot-microservices tutorial
+![Architecture](https://github.com/jitmanew-tyagi/clothz/blob/main/arch.jpg?raw=true)
